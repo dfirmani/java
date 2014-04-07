@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("mi primer commit");
+		System.out.println("mi segundo commit");
 		
 	}
 
